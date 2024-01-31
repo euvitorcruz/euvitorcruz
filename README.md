@@ -4,7 +4,7 @@
 ⛽ Consultor de Negócios na Ipiranga <br/>
 💼 CEO na Perímetro Digital<br/>
 💻 Estudante de Engenharia de Software<br/>
-💜 Streammer na Twitch.tv<br/>
+💜 Streamer na Twitch.tv<br/>
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-araujo-da-cruz-2a0116160/)
